@@ -1,3 +1,7 @@
+# PowerShell · Scripts de Sistemas Informáticos
+
+Colección de scripts de PowerShell hechos en el módulo de **Sistemas Informáticos** de 1.º de DAM: automatización de tareas en Windows, desde entrada y salida por consola hasta gestión de archivos, procesos y usuarios.
+
 En este repositorio se recogen los scripts de PowerShell desarrollados durante la práctica de scripting en el módulo de Sistemas Informáticos del ciclo DAM. El objetivo es familiarizarse con la automatización de tareas en entornos Windows mediante PowerShell, cubriendo desde operaciones básicas de entrada/salida hasta gestión de archivos, procesos del sistema e interacción con el usuario.
 
 ---
